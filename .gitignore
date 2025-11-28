@@ -1,0 +1,17 @@
+# Large dataset files
+*.csv
+data/TON_loT_sample.csv
+data/UNSW_NB15_sample.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Experiments and outputs
+experiments/
+*.pth
+
+# IDE
+.vscode/
+.idea/
